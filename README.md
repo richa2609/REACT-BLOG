@@ -169,6 +169,12 @@ Base URL: `http://localhost:3001`
 
 ---
 
+## CODE EXPLAINATION & OUTPUT
+
+CLICK HERE: https://drive.google.com/drive/folders/1BZawViBtJMSoHW34B2Hz-qmRpfg4qnVB?usp=sharing
+
+---
+
 ## 👩‍💻 Author
 
 **Richa** — [@RICHA2609](https://github.com/RICHA2609)
