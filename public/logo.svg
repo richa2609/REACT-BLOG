@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" width="320" height="90">
+  <circle cx="45" cy="45" r="38" fill="#2e7d32"/>
+  <path d="M15 48h60a30 26 0 0 1-60 0z" fill="#fff"/>
+  <path d="M30 46c0-14 10-22 24-24 2 14-6 24-24 24z" fill="#8bc34a"/>
+  <path d="M46 46c2-10 10-16 20-16-1 10-8 16-20 16z" fill="#ff8f1f"/>
+  <text x="95" y="48" font-family="Georgia,serif" font-weight="700" font-size="34" fill="#2e7d32">RICH</text>
+  <text x="95" y="76" font-family="Arial,sans-serif" font-weight="700" font-size="24" letter-spacing="6" fill="#ff8f1f">HEALTH</text>
+</svg>

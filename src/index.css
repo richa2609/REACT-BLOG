@@ -1,0 +1,104 @@
+:root {
+    --green: #2e7d32;
+    --lime: #8bc34a;
+    --orange: #ff8f1f;
+    --cream: #f7faf2;
+}
+
+body {
+    background: var(--cream);
+    color: #27312a;
+}
+
+.btn-brand {
+    background: var(--green);
+    color: #fff;
+    border: 0;
+}
+
+.btn-brand:hover {
+    background: #1b5e20;
+    color: #fff;
+}
+
+.btn-orange {
+    background: var(--orange);
+    color: #fff;
+    border: 0;
+}
+
+.btn-orange:hover {
+    background: #e57c0b;
+    color: #fff;
+}
+
+.text-brand {
+    color: var(--green);
+}
+
+.navbar-brand img {
+    height: 44px;
+}
+
+.hero {
+    background: linear-gradient(rgba(20, 60, 25, .65), rgba(20, 60, 25, .65)), url('https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1600&q=80') center/cover;
+    color: #fff;
+    padding: 110px 0;
+}
+
+.blog-card {
+    border: 0;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, .08);
+    transition: transform .2s;
+    height: 100%;
+}
+
+.blog-card:hover {
+    transform: translateY(-4px);
+}
+
+.blog-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.badge-cat {
+    background: var(--lime);
+    color: #1b3d1d;
+}
+
+.detail-img {
+    width: 100%;
+    max-height: 420px;
+    object-fit: cover;
+    border-radius: 16px;
+}
+
+.stat-card {
+    border: 0;
+    border-radius: 16px;
+    color: #fff;
+}
+
+.footer {
+    background: #1b3d1d;
+    color: #d7e8d0;
+}
+
+.page-link {
+    color: var(--green);
+}
+
+.page-item.active .page-link {
+    background: var(--green);
+    border-color: var(--green);
+}
+
+.table-img {
+    width: 56px;
+    height: 42px;
+    object-fit: cover;
+    border-radius: 6px;
+}
